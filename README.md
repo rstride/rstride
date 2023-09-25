@@ -8,11 +8,11 @@
 
 ## Skills
 - Programming Languages: C, C++, Python, JavaScript
-- Frameworks: Node.js
+- Frameworks: Node.js, NestJS, Typescript
 - Tools: Git, Docker
 
 ## Projects
-- **Project 1**: [GitHub Repo](https://github.com/RomainStride/Project1) - Brief description
+- **Project 1**: [GitHub Repo](https://github.com/RomainStride/ft_transcendence) - Brief description
 - **Project 2**: [GitHub Repo](https://github.com/RomainStride/Project2) - Brief description
 
 ## Contact Me
