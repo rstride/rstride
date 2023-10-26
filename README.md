@@ -3,7 +3,7 @@
 ## About Me
 🎓 I'm a student at École 42 Perpignan  
 👨‍💻 Passionate about software development  
-🌱 Currently learning AI  
+🌱 Currently learning Cybersecurity
 📍 Located in Perpignan
 
 ## Skills
