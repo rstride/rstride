@@ -12,11 +12,11 @@
 - Tools: Git, Docker
 
 ## Projects
-- **Project 1**: [GitHub Repo](https://github.com/RomainStride/ft_transcendence) - Brief description
-- **Project 2**: [GitHub Repo](https://github.com/RomainStride/Project2) - Brief description
+- **Project 1**: [GitHub Repo](https://github.com/RomainStride/ft_transcendence) - Web app with online multiplayer game
+- **Project 2**: [GitHub Repo](https://github.com/RomainStride/lib_asm) - Lib C remaked in Assembly 
 
 ## Contact Me
-- 📧 Email: [Your Email](mailto:romain.stride@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/romain-stride-50451b98)
-- 🌐 Portfolio: [Your Portfolio](https://your-portfolio.com)
+- 📧 [Email](mailto:romain.stride@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/romain-stride-50451b98)
+- 🌐 [Portfolio](https://your-portfolio.com)
 
