@@ -12,8 +12,8 @@
 - Tools: Git, Docker
 
 ## Projects
-- **Project 1**: [GitHub Repo](https://github.com/RomainStride/ft_transcendence) - Web app with online multiplayer game
-- **Project 2**: [GitHub Repo](https://github.com/RomainStride/lib_asm) - Lib C remaked in Assembly 
+- **Project 1**: [ft_transcendence](https://github.com/RomainStride/ft_transcendence) - Web app with online multiplayer game
+- **Project 2**: [lib_asm](https://github.com/RomainStride/lib_asm) - Lib C remaked in Assembly 
 
 ## Contact Me
 - 📧 [Email](mailto:romain.stride@gmail.com)
