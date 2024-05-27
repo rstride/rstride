@@ -23,8 +23,5 @@ A complete rewrite of the standard C library in Assembly language. This project 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/romain-stride-50451b98)
 - 🌐 Visit my [Portfolio](https://your-portfolio.com)
 
-## GitHub Stats
-![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=rstride&show_icons=true&theme=radical)
-
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rstride&layout=compact&theme=radical)
