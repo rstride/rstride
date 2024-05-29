@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 I'm a student at [École 42 Perpignan](https://www.42.fr/)  
-👨‍💻 Passionate about software development  
+👨‍💻 Passionate about software development
 🌱 Currently delving into the world of Cybersecurity  
 📍 Based in Perpignan, France
 
@@ -15,7 +15,7 @@
 ### [ft_transcendence](https://github.com/rstride/ft_transcendence)
 A full-stack web application featuring an online multiplayer game. This project showcases my skills in web development, backend services, and game design.
 
-### [security+piscine](https://github.com/rstride/security_piscine)
+### [security_piscine](https://github.com/rstride/security_piscine)
 A cybersecurity tool set in python. Theses little projects showcase network programming,reverse engeneering and malwares 
 
 ### [lib_asm](https://github.com/rstride/lib_asm)
