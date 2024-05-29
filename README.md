@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 I'm a student at [École 42 Perpignan](https://www.42.fr/)  
-👨‍💻 Passionate about software development
+👨‍💻 Passionate about software development  
 🌱 Currently delving into the world of Cybersecurity  
 📍 Based in Perpignan, France
 
