@@ -9,7 +9,7 @@
 ## Skills
 - **Programming Languages**: C, C++, Python, JavaScript
 - **Frameworks & Libraries**: Node.js, NestJS, Typescript
-- **Tools & Technologies**: Git, Docker
+- **Tools & Technologies**: Git, Docker, Linux
 
 ## Projects
 ### [ft_transcendence](https://github.com/rstride/ft_transcendence)
@@ -23,7 +23,7 @@ A complete rewrite of the standard C library in Assembly language. This project 
 
 ## Get in Touch
 - 📧 [Email me](mailto:romain.stride@gmail.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/romain-stride-50451b98)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/romainstride)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rstride&layout=compact&theme=radical)
