@@ -1,9 +1,9 @@
 # Hi there, I'm Romain Stride 👋
 
 ## About Me
-🎓 I'm a student at [École 42 Perpignan](https://www.42.fr/)  
-👨‍💻 Passionate about software development  
-🌱 Currently delving into the world of Cybersecurity  
+🎓 Former jurist studying at [École 42 Perpignan](https://www.42.fr/)  
+👨‍💻 Passionate about software development
+🌱 Currently delving into the world of Cybersecurity with 42 Cybersec Speciality and TryHackMe  
 📍 Based in Perpignan, France
 
 ## Skills
@@ -12,14 +12,18 @@
 - **Tools & Technologies**: Git, Docker, Linux
 
 ## Projects
-### [ft_transcendence](https://github.com/rstride/ft_transcendence)
-A full-stack web application featuring an online multiplayer game. This project showcases my skills in web development, backend services, and game design.
 
 ### [security_piscine](https://github.com/rstride/security_piscine)
-A cybersecurity tool set in python. Theses little projects showcase network programming,reverse engeneering and malwares 
+A cybersecurity tool set in python. Theses little projects showcase network programming,reverse engeneering, ransomware and protection against it, ARP Poisoning and SQL injections 
+
+### [ft_malcolm](https://github.com/rstride/ft_malcolm)
+A program that perform a Man in the Middle Attack
 
 ### [lib_asm](https://github.com/rstride/lib_asm)
-A complete rewrite of the standard C library in Assembly language. This project highlights my deep understanding of low-level programming and performance optimization.
+A rewrite of the standard C library in Assembly language. This project highlights my deep understanding of low-level programming and performance optimization.
+
+### [ft_transcendence](https://github.com/rstride/ft_transcendence)
+The final 42 Common Core project. A full-stack web application featuring an online multiplayer game. This project showcases my skills in web development, backend services, and game design.
 
 ## Get in Touch
 - 📧 [Email me](mailto:romain.stride@gmail.com)
