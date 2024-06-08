@@ -4,7 +4,7 @@
 🎓 Former jurist studying at [École 42 Perpignan](https://www.42.fr/)  
 👨‍💻 Passionate about software development  
 🌱 Currently delving into the world of Cybersecurity with 42 Cybersec Speciality and TryHackMe  
-📍 Based in Perpignan, France
+📍 Based in Perpignan, France 
 
 ## Skills
 - **Programming Languages**: C, C++, Python, JavaScript
