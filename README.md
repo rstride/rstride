@@ -27,7 +27,11 @@ The final 42 Common Core project. A full-stack web application featuring an onli
 
 ## Hacking
 
+<<<<<<< HEAD
 <script src="https://tryhackme.com/badge/2415197"></script>
+=======
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Biolaw.png)
+>>>>>>> fefb745 (Update README.md)
 
 ## Get in Touch
 - 📧 [Email me](mailto:romain.stride@gmail.com)
