@@ -25,10 +25,6 @@ A rewrite of the standard C library in Assembly language. This project highlight
 ### [ft_transcendence](https://github.com/rstride/ft_transcendence)
 The final 42 Common Core project. A full-stack web application featuring an online multiplayer game. This project showcases my skills in web development, backend services, and game design.
 
-## Hacking
-
-[TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Biolaw.png)
-
 ## Get in Touch
 - 📧 [Email me](mailto:romain.stride@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/romainstride)
