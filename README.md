@@ -2,16 +2,15 @@
 
 ## About Me
 🎓 Former jurist studying at [École 42 Perpignan](https://www.42.fr/)  
-👨‍💻 Passionate about software development  
-🌱 Currently delving into the world of Cybersecurity with 42 Cybersec Speciality and TryHackMe  
-📍 Based in Perpignan, France 
+👨‍💻 Passionate about software development and ethical hacking
+🌱 Currently delving into the world of Cybersecurity with 42 Cybersec Speciality, TryHackMe and RootMe
+📍 Based in Perpignan, France
 
 ## Skills
-- **Programming Languages**: C, C++, Python, JavaScript
-- **Frameworks & Libraries**: Node.js, NestJS, Typescript
+- **Main Programming Languages**: C, C++, Python
 - **Tools & Technologies**: Git, Docker, Linux
 
-## Projects
+## Cybersec Mastery Projects
 
 ### [ft_malcolm](https://github.com/rstride/ft_malcolm)
 A man-in-the-middle attack simulator.
@@ -24,6 +23,11 @@ A rewrite of the standard C library in Assembly language. This project highlight
 
 ### [ft_transcendence](https://github.com/rstride/ft_transcendence)
 The final 42 Common Core project. A full-stack web application featuring an online multiplayer game. This project showcases my skills in web development, backend services, and game design.
+
+## Cybersec Platforms
+
+TryHackMe : Top 15%
+RootMe : 500 pts
 
 ## Get in Touch
 - 📧 [Email me](mailto:romain.stride@gmail.com)
