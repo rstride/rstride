@@ -6,11 +6,10 @@
 🌱 Currently delving into the world of Cybersecurity with 42 Cybersec Speciality, TryHackMe and RootMe
 📍 Based in Perpignan, France
 
-## Skills
-- **Main Programming Languages**: C, C++, Python
-- **Tools & Technologies**: Git, Docker, Linux
-
 ## Cybersec Mastery Projects
+
+### [woody-woodpacker](https://github.com/rstride/woody-woodpacker)
+Encryption system to create a secured version of an existing program.
 
 ### [ft_malcolm](https://github.com/rstride/ft_malcolm)
 A man-in-the-middle attack simulator.
@@ -20,9 +19,6 @@ A cybersecurity tool set in python. Theses little projects showcase network prog
  
 ### [lib_asm](https://github.com/rstride/lib_asm)
 A rewrite of the standard C library in Assembly language. This project highlights my deep understanding of low-level programming and performance optimization.
-
-### [ft_transcendence](https://github.com/rstride/ft_transcendence)
-The final 42 Common Core project. A full-stack web application featuring an online multiplayer game. This project showcases my skills in web development, backend services, and game design.
 
 ## Cybersec Platforms
 
