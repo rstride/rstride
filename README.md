@@ -1,9 +1,12 @@
 # Hi there, I'm Romain Stride 👋
 
 ## About Me
-🎓 Former jurist studying at [École 42 Perpignan](https://www.42.fr/)  
+🎓 Former jurist studying at [École 42 Perpignan](https://www.42.fr/)
+
 👨‍💻 Passionate about software development and ethical hacking
+
 🌱 Currently delving into the world of Cybersecurity with 42 Cybersec Speciality, TryHackMe and RootMe
+
 📍 Based in Perpignan, France
 
 ## Cybersec Mastery Projects
