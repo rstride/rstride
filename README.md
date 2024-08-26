@@ -28,9 +28,9 @@ A rewrite of the standard C library in Assembly language. This project highlight
 
 ## Cybersec Platforms
 
-[TryHackMe](https://tryhackme.com/p/rstride) : Top 10%
+[TryHackMe](https://tryhackme.com/p/rstride) : Top 5%
 
-[RootMe](https://www.root-me.org/rstride) : 700+ points
+[RootMe](https://www.root-me.org/rstride) : 1000+ points
 
 ## Get in Touch
 - 📧 [Email me](mailto:romain.stride@gmail.com)
