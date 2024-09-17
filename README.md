@@ -12,7 +12,7 @@
 ## 42 Cybersec Mastery Projects
 
 ### [famine](https://github.com/rstride/famine)
-A simple ransomware written in C. This project showcases my understanding of encryption and decryption algorithms, as well as my ability to create a secure system.
+An innofensive virus that change the signature of elf 64 bit and 32 bit
 
 ### [woody-woodpacker](https://github.com/rstride/woody-woodpacker)
 A 64-bit ELF binary packer written in C. This project highlights my understanding of binary file formats and my ability to manipulate them.
