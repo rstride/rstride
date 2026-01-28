@@ -63,7 +63,7 @@
 |:--------|:----:|:------------|
 | **[security_piscine](https://github.com/rstride/security_piscine)** | `Python` `C` `C++` | Multiple cybersecurity projects: reverse engineering, ransomware, ARP poisoning, SQL injection |
 | **[snow-crash](https://github.com/rstride/snow-crash)** | `PHP` `React` | Virtual Machine to exploit web applications |
-| **[boot2root](https://github.com/rstride/boot2root)** | `PHP` | Crafting two differents writup of a machine |
+| **[boot2root](https://github.com/rstride/BornToSec)** | `PHP` | Crafting two differents writup of a machine |
 | **[rainfall](https://github.com/rstride/rainfall)** | `C` | Reverse engineering of a Machine |
 </details>
 
