@@ -16,6 +16,9 @@
 📍  Based in Perpignan, France
 ```
 
+## Professionnals Cerifications
+
+2026 - TryHackMe Junior Penetration Tester (PT1)
 
 ## 42 Cybersec Mastery Projects
 
@@ -73,7 +76,7 @@
 
 [RootMe](https://www.root-me.org/rstride) : 1500+ points
 
-[HachTheBox](https://www.hackthebox.com/profile/106666) : Elite Hacker
+[HachTheBox](https://www.hackthebox.com/profile/106666) : Pro Hacker
 
 ## Get in Touch
 - 📧 [Email me](mailto:romain.stride@prismasec.fr)
