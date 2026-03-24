@@ -34,6 +34,16 @@
 </details>
 
 <details open>
+<summary><b>🦠 Kernel Development</b></summary>
+<br>
+
+| Project | Tech | Description |
+|:--------|:----:|:------------|
+| **[kfs](https://github.com/rstride/kfs)** | `Rust` `ASM` | An Unix kernel from scratch in Rust |
+
+</details>
+
+<details open>
 <summary><b>🔐 Cryptography</b></summary>
 <br>
 
