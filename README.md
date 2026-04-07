@@ -82,16 +82,10 @@
 
 ## Cybersec Platforms
 
-[TryHackMe](https://tryhackme.com/p/rstride) : Top 3%
+[TryHackMe](https://tryhackme.com/p/rstride) : Guru / PT1 Certified
 
-[RootMe](https://www.root-me.org/rstride) : 1500+ points
-
-[HachTheBox](https://www.hackthebox.com/profile/106666) : Pro Hacker
+[HachTheBox](https://www.hackthebox.com/profile/106666) : Elite Hacker
 
 ## Get in Touch
-- 📧 [Email me](mailto:romain.stride@prismasec.fr)
+- 📧 [Email me](mailto:contact@rstride.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/romainstride)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rstride&layout=compact&theme=radical)
-
