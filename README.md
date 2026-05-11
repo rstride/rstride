@@ -90,4 +90,4 @@
 - 📧 [Email me](mailto:contact@rstride.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/romainstride)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rstride&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rstride&layout=compact&hide=Makefile)
